@@ -1,2 +1,1 @@
-# Password_genrator
-Password generator
+This project is a simple yet versatile Python implementation of the Caesar cipher, a classic encryption technique. It allows users to encode or decode messages by shifting letters in the alphabet by a specified amount while preserving non-alphabetic characters like spaces, punctuation, and numbers. The script is user-friendly, with input prompts to guide users through encrypting or decrypting their messages. It also handles edge cases, such as large shift values and special characters, ensuring a smooth experience. Whether you're learning about cryptography or just exploring Python, this project offers a great introduction to both concepts.
